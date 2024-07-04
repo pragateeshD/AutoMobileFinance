@@ -6,7 +6,7 @@ The **Automobile Finance Management** system is a web application designed to st
 
 ## Key Features
 
-1. **User Administration:**  
+1. **User Administration:**   
 
    - Administrators can manage customer data, create and update customer information, and track due amounts.
 2. **Customer Detail Management:**
