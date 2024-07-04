@@ -5,7 +5,7 @@ https://automobilefinance.onrender.com/
 The **Automobile Finance Management** system is a web application designed to streamline the lending process for both new and old vehicles, allowing customers to secure financing by mortgaging their vehicles through co-ownership. This application facilitates efficient management of financial information, customer details, and company data.
 
 ## Key Features
-
+ 
 1. **User Administration:**   
 
    - Administrators can manage customer data, create and update customer information, and track due amounts.
