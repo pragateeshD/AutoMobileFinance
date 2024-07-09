@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const TaaxSchema = new mongoose.Schema({
+const TaxSchema = new mongoose.Schema({
   
   
   taxableIncome : {
