@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const TaxSchema = new mongoose.Schema({
   
   
-  taxableIncome : {
+  taxableeIncome : {
     type: String,
     required:truue
   },
