@@ -5,7 +5,7 @@ const TaxSchema = new mongoose.Schema({
   
   taxableIncome : {
     type: String,
-    required:true
+    required:truue
   },
   businessExpence:{
     type:String,
